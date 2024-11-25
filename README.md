@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on: An SDL2 platformer game project.<br>🤝 I’m looking to collaborate on: Open-source projects in C++ or game development.<br>🧑‍🏫 I’m looking for help with: Improving my skills in advanced physics simulations and AI integration in gaming.<br>🌱 I’m currently learning: React for front-end development, DSA and exploring game design with Unity.<br>💬 Ask me about: My experience with NASA Space Apps Challenge, or anything about game development and astrophysics.<br>⚡ Fun fact: I’m a huge space enthusiast and love working on projects that combine technology and the cosmos!
+👨‍💻 I’m currently working on: An SDL2 platformer game project.<br>🤝 I’m looking to collaborate on: Open-source projects in C++ or game development.🌱 I’m currently learning: React for front-end development, DSA and exploring game design with Unity.<br>💬 Ask me about: My experience with NASA Space Apps Challenge, or anything about game development and astrophysics.<br>⚡ Fun fact: I’m a huge space enthusiast and love working on projects that combine technology and the cosmos!
 
 
 ## 🌐 Socials:
